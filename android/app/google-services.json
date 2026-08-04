@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676217050613",
+    "project_id": "mobileauth-f72ae",
+    "storage_bucket": "mobileauth-f72ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676217050613:android:0773ec77e292fc748a3cbc",
+        "android_client_info": {
+          "package_name": "com.example.mobile_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKT2w_KKuMnDAuQCUYK9BXIntKgRUL2go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
